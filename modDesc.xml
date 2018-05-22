@@ -39,7 +39,7 @@
             <en>Inflate pressure</en>
             <de>Inflate pressure</de>
             <fr>Inflate pressure</fr>
-            <pl>Napompuj ciśnienie z opon</pl>
+            <pl>Napompuj ciśnienie z opony</pl>
         </text>
         <text name="input_SOILCOMPACTION_TIRE_DEFLATE">
             <en>Deflate pressure</en>
